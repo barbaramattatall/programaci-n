@@ -1,6 +1,1 @@
-
-markdown
-
-# Programación
-
-## Repositorio que contiene todos mis trabajos y tareas de programación.
+# Repositorio que contiene  trabajos y tareas de programación.
